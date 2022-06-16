@@ -1,0 +1,12 @@
+Must change compiler versions for c or cpp
+
+g++ <cpp_file>
+
+gcc <c_file>
+
+python3 <python_file>
+
+javac <javafile>
+java <javafile> == run application  
+
+cpsimple == code snippet
